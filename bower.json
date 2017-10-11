@@ -1,0 +1,22 @@
+{
+  "name": "pug-monorepo",
+  "version": "2.0.0-rc.4",
+  "description": "Fork from https://github.com/pugjs/pug",
+  "main": "",
+  "authors": [
+    "pugjs(fork by BoringTu <mail@Boring.com>)"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "pug",
+    "pugjs"
+  ],
+  "homepage": "https://github.com/BoringTu/pug",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
